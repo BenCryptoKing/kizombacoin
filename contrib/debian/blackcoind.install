@@ -1,0 +1,2 @@
+debian/bin/kizombacoind usr/bin
+src/kizombacoind usr/lib/kizombacoin
